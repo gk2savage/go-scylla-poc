@@ -1,8 +1,8 @@
 package main
 
 import (
-	"scylladbpoc/internal/log"
-	"scylladbpoc/internal/scylla"
+	"go-scylla-poc/internal/log"
+	"go-scylla-poc/internal/scylla"
 
 	"github.com/gocql/gocql"
 	"go.uber.org/zap"
