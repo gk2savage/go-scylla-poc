@@ -5,7 +5,7 @@
 ### Proof of Concept
 Implementation of ScyllaDB with golang
 
-![Go](https://www.scylladb.com/wp-content/uploads/BlinkJump_Animation_07_Shadow_193b6c-1.gif)
+<img src="https://www.scylladb.com/wp-content/uploads/BlinkJump_Animation_07_Shadow_193b6c-1.gif" width="152" height="191"/>
 
 ### Implementation and Pre-requisites
 
